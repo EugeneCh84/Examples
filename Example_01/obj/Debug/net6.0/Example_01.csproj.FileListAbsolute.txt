@@ -1,0 +1,15 @@
+/home/eugene/Projects/Examples/Example_01/bin/Debug/net6.0/Example_01
+/home/eugene/Projects/Examples/Example_01/bin/Debug/net6.0/Example_01.deps.json
+/home/eugene/Projects/Examples/Example_01/bin/Debug/net6.0/Example_01.runtimeconfig.json
+/home/eugene/Projects/Examples/Example_01/bin/Debug/net6.0/Example_01.dll
+/home/eugene/Projects/Examples/Example_01/bin/Debug/net6.0/Example_01.pdb
+/home/eugene/Projects/Examples/Example_01/obj/Debug/net6.0/Example_01.csproj.AssemblyReference.cache
+/home/eugene/Projects/Examples/Example_01/obj/Debug/net6.0/Example_01.GeneratedMSBuildEditorConfig.editorconfig
+/home/eugene/Projects/Examples/Example_01/obj/Debug/net6.0/Example_01.AssemblyInfoInputs.cache
+/home/eugene/Projects/Examples/Example_01/obj/Debug/net6.0/Example_01.AssemblyInfo.cs
+/home/eugene/Projects/Examples/Example_01/obj/Debug/net6.0/Example_01.csproj.CoreCompileInputs.cache
+/home/eugene/Projects/Examples/Example_01/obj/Debug/net6.0/Example_01.dll
+/home/eugene/Projects/Examples/Example_01/obj/Debug/net6.0/refint/Example_01.dll
+/home/eugene/Projects/Examples/Example_01/obj/Debug/net6.0/Example_01.pdb
+/home/eugene/Projects/Examples/Example_01/obj/Debug/net6.0/Example_01.genruntimeconfig.cache
+/home/eugene/Projects/Examples/Example_01/obj/Debug/net6.0/ref/Example_01.dll
